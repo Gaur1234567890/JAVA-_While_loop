@@ -18,5 +18,6 @@ public class Sum_of_first_And_last {
           n=n/10;
         }
         System.out.println(sum);
+        sc.close();
     }
 }

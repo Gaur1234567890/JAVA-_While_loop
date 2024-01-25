@@ -11,5 +11,6 @@ public class Count {
             n= n/10;
         }
         System.out.println(count);
+        sc.close();
     }
 }

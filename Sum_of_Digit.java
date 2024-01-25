@@ -12,5 +12,6 @@ while(n>0)
     n = n/10;
 }
 System.out.println(sum);
+sc.close();
     }
 }
