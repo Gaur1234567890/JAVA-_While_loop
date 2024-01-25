@@ -1,12 +1,12 @@
-class Test
+class Test1
 {
 public static void main(String [] args)
 {
-    int a=1;
-    while(a<5)
+    int a=5;
+    while(a>=1)
     {
         System.out.println(a);
-        a++;
+        a--;
     }
 }
 }
